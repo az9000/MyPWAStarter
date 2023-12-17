@@ -31,5 +31,6 @@
     "trailingComma": "es5",
     "endOfLine": "crlf",
     "bracketSpacing": true
-  }
+  },
+  "homepage": "https://az9000.github.io/mypwastarter",
 }
